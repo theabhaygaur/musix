@@ -51,7 +51,7 @@ const featuredWebinars = [
 
 function Webinars() {
   return (
-    <div className="p-12 bg-black">
+    <div className="md:p-12 py-12 px-3 bg-black">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 ">
         <div className="text-center">
           <h2 className="text-neutral-400 tracking-wide uppercase">

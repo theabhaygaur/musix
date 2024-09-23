@@ -36,7 +36,7 @@ function Scroll() {
   ];
 
   return (
-    <div className="h-screen w-full  mt-20">
+    <div className=" h-[80%] md:h-screen w-full  mt-20  md:py-20 ">
       <StickyScroll content={musicSchoolContent} />
     </div>
   );

@@ -37,9 +37,12 @@ const testimonials = [
 function Slider() {
   return (
     <div className="bg-black h-screen w-full bg-grid-white/[0.2] relative flex flex-col items-center justify-center overflow-hidden">
-      <h2 className="text-3xl text-white text-center font-semibold mb-16">
-        Hear our hormony: Voices of the Future
+      <h2 className="text-4xl w-3/4 md:text-3xl text-white text-center font-semibold mb-2">
+        Hear our hormony
       </h2>
+      <p className="text-neutral text-base md:text-lg w-3/4 text-center opacity-50 mb-5">
+        Kind word of praise and encourangement from out students
+      </p>
       <div>
         <div>
           <InfiniteMovingCards

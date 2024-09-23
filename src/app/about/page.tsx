@@ -8,7 +8,7 @@ function page() {
       "
       >
         <h1 className="text-lg md:text-7xl font-bold">About Us</h1>
-        <p className="text-sm mt-5 text-center max-w-lg mx-auto opacity-50">
+        <p className="w-3/4 text-sm mt-5 text-center max-w-lg mx-auto opacity-50">
           Welcome to our music school! We are a dedicated team of musicians and
           educators who are passionate about sharing the joy of music with
           others. Our mission is to provide high-quality music education and
@@ -26,7 +26,7 @@ function page() {
       </div>
       <div className="flex flex-col items-center justify-center h-auto md:h-screen mt-32 md:mt-0 mb-20">
         <h1 className="text-xl  md:text-3xl font-bold">Our Team</h1>
-        <p className="text-sm mt-5 text-center max-w-lg mx-auto opacity-50">
+        <p className="w-3/4 text-sm mt-5 text-center max-w-lg mx-auto opacity-50">
           Our team consists of experienced musicians and educators who are
           committed to helping students achieve their musical goals.
         </p>
