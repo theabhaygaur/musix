@@ -1,6 +1,5 @@
 "use client";
 import { StickyScroll } from "@/components/ui/sticky-scroll-reveal";
-import { div } from "framer-motion/client";
 
 function Scroll() {
   const musicSchoolContent = [
